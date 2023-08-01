@@ -1,0 +1,1 @@
+streamlit run web.py --server.port 51073

@@ -1,0 +1,8 @@
+pandas
+numpy
+transformers
+absl-py
+rouge_score
+streamlit
+torch
+

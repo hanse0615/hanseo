@@ -1,0 +1,22 @@
+# 라이브러리 설치
+- 터미널에서 다음과 같이 입력해주세요.
+pip install -r requirements.txt
+
+# 웹에서 실행하기
+streamlit run web.py
+
+# 학습
+python train.py
+
+# 코드 설명
+- check_wc-1.py: 20만개의 데이터를 확인하기 위해 만든 코드입니다.
+- plus_backpack.py: 뷁뷁뷁뷁뷁을 데이터별로 붙이는 코드입니다.
+
+- preprocess.py: 데이터를 전처리하는 코드입니다.
+
+# web 실행 
+streamlit run web.py
+
+# 부가적인 파일 설명
+- data 폴더: 전처리된 데이터입니다
+- ckpt 폴더: 학습한 4개의 모델이 포함되어 있는 코드입니다
